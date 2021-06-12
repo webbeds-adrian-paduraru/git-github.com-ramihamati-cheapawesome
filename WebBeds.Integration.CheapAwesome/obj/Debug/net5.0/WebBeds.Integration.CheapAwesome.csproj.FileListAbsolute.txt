@@ -1,0 +1,12 @@
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\obj\Debug\net5.0\WebBeds.Integration.CheapAwesome.csprojAssemblyReference.cache
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\obj\Debug\net5.0\WebBeds.Integration.CheapAwesome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\obj\Debug\net5.0\WebBeds.Integration.CheapAwesome.AssemblyInfoInputs.cache
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\obj\Debug\net5.0\WebBeds.Integration.CheapAwesome.AssemblyInfo.cs
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\obj\Debug\net5.0\WebBeds.Integration.CheapAwesome.csproj.CoreCompileInputs.cache
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\bin\Debug\net5.0\WebBeds.Integration.CheapAwesome.deps.json
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\bin\Debug\net5.0\WebBeds.Integration.CheapAwesome.dll
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\bin\Debug\net5.0\ref\WebBeds.Integration.CheapAwesome.dll
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\bin\Debug\net5.0\WebBeds.Integration.CheapAwesome.pdb
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\obj\Debug\net5.0\WebBeds.Integration.CheapAwesome.dll
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\obj\Debug\net5.0\ref\WebBeds.Integration.CheapAwesome.dll
+C:\Users\Rami\source\repos\WebBeds\WebBeds.Integration.CheapAwesome\obj\Debug\net5.0\WebBeds.Integration.CheapAwesome.pdb

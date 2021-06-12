@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBeds", "WebBeds\WebBeds.csproj", "{1AA7062A-B2C8-45AA-AC16-12DF64B9BC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBeds.Integration.CheapAwesome", "WebBeds.Integration.CheapAwesome\WebBeds.Integration.CheapAwesome.csproj", "{C80394A7-8478-430A-BFFD-BE5619B354B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA7062A-B2C8-45AA-AC16-12DF64B9BC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA7062A-B2C8-45AA-AC16-12DF64B9BC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA7062A-B2C8-45AA-AC16-12DF64B9BC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA7062A-B2C8-45AA-AC16-12DF64B9BC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C80394A7-8478-430A-BFFD-BE5619B354B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C80394A7-8478-430A-BFFD-BE5619B354B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C80394A7-8478-430A-BFFD-BE5619B354B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C80394A7-8478-430A-BFFD-BE5619B354B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E038560-7E6C-4F86-B10B-4EE895826645}
+	EndGlobalSection
+EndGlobal
